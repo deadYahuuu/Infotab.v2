@@ -1,0 +1,24 @@
+{
+  "colors": {
+    "bg": "#1e1e1e",
+    "fg": "#8080ff",
+    "muted": "#9a9a9a",
+    "panel": "#252526",
+    "accent": "#4ec9b0",
+    "good": "#6ac46a",
+    "warn": "#dcdcaa",
+    "bad": "#f48771",
+    "graph_bg": "#181818",
+    "graph_line": "#4ec9b0",
+    "graph_fill": "#2d4f47",
+    "entry_bg": "#2d2d30",
+    "entry_fg": "#e6e6e6"
+  },
+  "preset": "Custom",
+  "ping_host": "8.8.8.8",
+  "always_on_top": false,
+  "compact_hud": false,
+  "hud_alpha": 0.85,
+  "csv_logging": false,
+  "csv_path": ""
+}
